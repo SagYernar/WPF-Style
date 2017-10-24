@@ -1,0 +1,33 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ChangeTheme">
+
+    <Style TargetType="Grid">
+        <Setter Property="Background" Value="#FF3E0808"/>
+    </Style>
+    <Style TargetType="Button">
+        <Setter Property="Control.Foreground" Value="#FFB40000"/>
+        <Setter Property="Control.Background" Value="#FF324736"/>
+        <Setter Property="Control.BorderBrush" Value="#FF083416"/>
+    </Style>
+    <Style TargetType="Label">
+        <Setter Property="Control.Foreground" Value="#FFB40000"/>
+    </Style>
+    <Style TargetType="TextBox">
+        <Setter Property="Control.Foreground" Value="#FFB40000"/>
+        <Setter Property="Control.Background" Value="#FF324736"/>
+        <Setter Property="Control.BorderBrush" Value="#FF083416"/>
+    </Style>
+    <Style TargetType="Image">
+        <Setter Property="Source" Value="light.png"/>
+    </Style>
+    <Style TargetType="ComboBoxItem">
+        <Setter Property="Foreground" Value="#FFB40000"/>
+        <Setter Property="Background" Value="#FF324736"/>
+        <Setter Property="BorderBrush" Value="#FF083416"/>
+    </Style>
+    <Style TargetType="">
+        <Setter Property="Control.Background" Value="#FF324736"/>
+    </Style>
+    
+</ResourceDictionary>

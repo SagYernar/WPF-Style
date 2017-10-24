@@ -1,0 +1,17 @@
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\ChangeTheme.csprojResolveAssemblyReference.cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\MainWindow.g.cs
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\App.g.cs
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\ChangeTheme_MarkupCompile.cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\ChangeTheme_MarkupCompile.lref
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\MainWindow.baml
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\ChangeTheme.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\ChangeTheme.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\bin\Debug\ChangeTheme.exe.config
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\bin\Debug\ChangeTheme.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\bin\Debug\ChangeTheme.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\ChangeTheme.g.resources
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\ChangeTheme.Properties.Resources.resources
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\ChangeTheme.csproj.GenerateResource.Cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\DarkThemeDictionary.baml
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\LightThemeDictionary.baml
+c:\users\сагадиеве\documents\visual studio 2017\Projects\ChangeTheme\ChangeTheme\obj\Debug\mineThemeDictionary.baml

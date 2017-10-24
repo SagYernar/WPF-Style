@@ -1,0 +1,30 @@
+﻿<Window x:Class="ChangeTheme.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChangeTheme"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="300">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="LightThemeDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid Margin="0,0,2,-1">
+        <ComboBox HorizontalAlignment="Left" Margin="54,227,0,0" VerticalAlignment="Top" Width="112">
+            <Button Name="light" Content="Light" Width="112" Click="Light_Click" />
+            <Button Name="dark" Content="Dark" Width="112" Click="Dark_Click"/>
+            <Button Name="mine" Content="Mine" Width="112" Click="Mine_Click"/>
+        </ComboBox>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="54,154,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="54,185,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="117,156,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="117,185,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="184,227,0,0" VerticalAlignment="Top" Width="53"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="98,30,0,0" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>
